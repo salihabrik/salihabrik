@@ -1,7 +1,8 @@
 
+2
 <h1 align="center">Hi 👋, I'm salihabrik</h1>
 <h3 align="center">A passionate data scientist from Algeria</h3>
-<img align="right" alt="coding" width="400" src=https://dribbble.com/shots/2563218-Digital-Nomad
+<img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/331265/screenshots/2563218/media/7ed2a4c6badc272bc29af4a874cb2c87.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
 
