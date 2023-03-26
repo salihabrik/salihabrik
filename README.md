@@ -1,8 +1,7 @@
-
-2
+![logo](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 <h1 align="center">Hi 👋, I'm salihabrik</h1>
 <h3 align="center">A passionate data scientist from Algeria</h3>
-<img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/331265/screenshots/2563218/media/7ed2a4c6badc272bc29af4a874cb2c87.gif
+<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
 
