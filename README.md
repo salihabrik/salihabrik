@@ -12,8 +12,8 @@
 <img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966
 <p align="left"> <img src=https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg
 <p align="left"> <img src= https://github.com/BEPb/BEPb/blob/main/profile-3d-contrib/profile-green-animate.svg
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
+profile-3d-contrib/profile-south-season.svg
+<p align="left"> <img src=<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihabrik" alt="salihabrik" /></a> </p>
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	
 
+<p align="left"> <img srchttps://www.buymeacoffee.com/egesionuchb
   <a href="https://github.com/salihabrik/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/salihabrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salihabrik" height="30" width="40" /></a>
@@ -40,4 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
+<p align="left"> <img src=https://camo.githubusercontent.com/f40f367c90fe00ed86d4f639e409bbd3eaf44577fa00affdb5a066778ec33476/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d49616d4e6165746f267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565266c6162656c436f6c6f723d303030303030
