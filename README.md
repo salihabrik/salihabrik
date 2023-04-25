@@ -42,5 +42,5 @@ profile-3d-contrib/profile-south-season.svg
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
 <p><img align="center" src=profile-3d-contrib/profile-south-season.sv
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
-<p align="left"> <img src=https://camo.githubusercontent.com/f40f367c90fe00ed86d4f639e409bbd3eaf44577fa00affdb5a066778ec33476/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d49616d4e6165746f267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565266c6162656c436f6c6f723d303030303030
+<p align="left"> <a href="=https://camo.githubusercontent.com/f40f367c90fe00ed86d4f639e409bbd3eaf44577fa00affdb5a066778ec33476/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d49616d4e6165746f267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565266c6162656c436f6c6f723d303030303030
 <p><img align="left" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif/></p>
