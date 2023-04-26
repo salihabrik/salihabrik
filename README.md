@@ -3,6 +3,12 @@
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+SalihaBrik!💻" /></h1>
   <br />
+	<h1 align="center">Hi 👋, welcome to my profile</h1>
+<p align="center">
+  <!-- Typing SVG by salihabrik - https://github.com/salihabrik/readme-typing-svg -->
+  <a href="https://github.com/salihabrik/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer%20web%20developer;web%20Writer;%20UI%2FUX%20Designing;2+%2B%20years%20of%20coding%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 	<p>Software Engineering Student@holbertonschool| @ALX_AFRICA.</p>
 	<br />
 <img align="center" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
