@@ -24,7 +24,20 @@
 ---
   
 <h3 align="center">A Software Engineer 👩‍💻 from Algeria</h3><p align="left"> <img src=https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
-<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966
+- 📫 How to reach me **briksaliha@gmail.com**									    
+	<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg
+
+
+<a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/salihabrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salihabrik" height="30" width="40" /></a>
+<a href="https://fb.com/salia bri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salia bri" height="30" width="40" /></a>
+<a href="https://instagram.com/sheshe_sali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheshe_sali" height="30" width="40" /></a>
+<a href="https://discord.gg/4933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4933" height="30" width="40" /></a>
+</p>									    
+										    
+
 <p align="left"> <img src=https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg
 <p align="left"> <img src= https://github.com/BEPb/BEPb/blob/main/profile-3d-contrib/profile-green-animate.svg
 profile-3d-contrib/profile-south-season.svg
@@ -32,16 +45,14 @@ profile-3d-contrib/profile-south-season.svg
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihabrik" alt="salihabrik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sali46427585?" target="blank"><img lkdisrc="https://img.shields.io/twitter/follow/sali46427585??logo=twitter&style=for-the-badge" alt="sali46427585?" /></a> </p>
+<a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg/></a>
 
+ <a href="https://github.com/salihabrik/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 - 📫 How to reach me **briksaliha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg
-
-
-  <a href="https://github.com/salihabrik/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ 
 <a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/salihabrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salihabrik" height="30" width="40" /></a>
 <a href="https://fb.com/salia bri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salia bri" height="30" width="40" /></a>
