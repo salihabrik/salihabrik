@@ -15,7 +15,9 @@
  <a href="https://www.github.com/in/salihabrik">
     <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=black" alt="github Badge"/>
   </a>
-	
+ <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
+ 
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
