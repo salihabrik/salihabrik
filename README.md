@@ -44,7 +44,7 @@
 <a href="https://instagram.com/sheshe_sali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheshe_sali" height="30" width="40" /></a>
 <a href="https://discord.gg/4933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4933" height="30" width="40" /></a>
 </p>									    
-										    
+<a href="https://api.whatsapp.com/send?phone=+213659975580" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>										    
 
 <p align="left"> <img src=https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg
 <p align="left"> <img src= https://github.com/BEPb/BEPb/blob/main/profile-3d-contrib/profile-green-animate.svg
@@ -114,7 +114,7 @@ width="30%">
 <img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
 
-<p align="center"> <img src=https://star-history.com/#salihabrik/salihabrik&Date /></p>
+<p align="center"> <img src=https://star-history.com/#salihabrik/salihabrik&Date /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif
 <img align="center" alt="Coding" width="400" src=https://camo.githubusercontent.com/282db948a3c03082f48873edb0aab11cee46e0ae047a9c58e87d2c22aa18295f/68747470733a2f2f62616467652e6d65646961706c75732e6d612f62696e6172792f796768617269
 <p align="left"> <img src=https://s01.flagcounter.com/overview1.cgi?ap7&chart=7/></p>
@@ -135,7 +135,7 @@ width="30%">
 <img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
 
-</p>
+</a> </p>
 
 
 
