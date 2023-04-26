@@ -60,7 +60,7 @@ profile-3d-contrib/profile-south-season.svg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
+ <a href="https://api.whatsapp.com/send?phone=+213659975580" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 <a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/salihabrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salihabrik" height="30" width="40" /></a>
 <a href="https://fb.com/salia bri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salia bri" height="30" width="40" /></a>
@@ -121,4 +121,8 @@ width="30%">
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BEPb/count.svg">  
 <p align="center"> <img src=https://camo.githubusercontent.com/1a9b80085e3c7ca1d2d8ed4820fecb52a8c7deb827169c662d5c948227ed9827/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40424550622e6769746875622e726561646d65/></a>
+<p align="center"> 
 
+<img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
+
+</p>
