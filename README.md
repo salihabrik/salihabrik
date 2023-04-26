@@ -6,19 +6,22 @@
 	<p>Software Engineering Student@holbertonschool| @ALX_AFRICA.</p>
 	<br />
 <img align="center" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-
-
+ <a href="https://www.linkedin.com/in/salihabrik">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/SaLi46427585?">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  </a>
+ <a href="https://www.github.com/in/salihabrik">
+    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=black" alt="github Badge"/>
+  </a>
+	
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-
-
-
-
- 
   
 <h3 align="center">A Software Engineer 👩‍💻 from Algeria</h3><p align="left"> <img src=https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
 <img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966
@@ -37,7 +40,7 @@ profile-3d-contrib/profile-south-season.svg
 <p align="left">
 <a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg
 
-<p align="left"> <img srchttps://www.buymeacoffee.com/egesionuchb
+
   <a href="https://github.com/salihabrik/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/salihabrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salihabrik" height="30" width="40" /></a>
