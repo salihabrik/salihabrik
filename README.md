@@ -70,20 +70,14 @@ profile-3d-contrib/profile-south-season.svg
 <p align="left"> <img src= https://github.com/salihabrik/salihabrik/blob/main/73Gu.gif
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a
-<img align="right" alt="coding" width="400" src=
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihabrik&show_icons=true&locale=en&layout=compact" alt="salihabrik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
 <p><img align="center" src=profile-3d-contrib/profile-south-season.sv
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
-<img align="center" alt="Coding" width="400" src=
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif
-<img align="center" alt="Coding" width="400" src=https://camo.githubusercontent.com/282db948a3c03082f48873edb0aab11cee46e0ae047a9c58e87d2c22aa18295f/68747470733a2f2f62616467652e6d65646961706c75732e6d612f62696e6172792f796768617269
- <p align="left"> <img src=https://s01.flagcounter.com/overview1.cgi?ap7&chart=7/></a>
-	      
-<p align="center"> <img src=https://camo.githubusercontent.com/1a9b80085e3c7ca1d2d8ed4820fecb52a8c7deb827169c662d5c948227ed9827/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40424550622e6769746875622e726561646d65 /></
-#### Thanks for visiting 🖤
+
+
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BEPb/count.svg">  
@@ -122,3 +116,8 @@ width="30%">
 width="30%">
 
 <p align="center"> <img src=https://star-history.com/#salihabrik/salihabrik&Date /></p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif
+<img align="center" alt="Coding" width="400" src=https://camo.githubusercontent.com/282db948a3c03082f48873edb0aab11cee46e0ae047a9c58e87d2c22aa18295f/68747470733a2f2f62616467652e6d65646961706c75732e6d612f62696e6172792f796768617269
+ <p align="left"> <img src=https://s01.flagcounter.com/overview1.cgi?ap7&chart=7/></a>
+<p align="center"> <img src=https://camo.githubusercontent.com/1a9b80085e3c7ca1d2d8ed4820fecb52a8c7deb827169c662d5c948227ed9827/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40424550622e6769746875622e726561646d65 /></
+#### Thanks for visiting 🖤
