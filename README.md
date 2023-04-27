@@ -77,68 +77,13 @@ profile-3d-contrib/profile-south-season.svg
 <p><img align="center" src=profile-3d-contrib/profile-south-season.sv
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
 
-
-
-
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![salihabrik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salihabrik&theme=github-compact)](https://github.com/salihabrik/github-readme-activity-graph)
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-		 
-<p align="left"> <img src=https://github.com/BEPb/BEPb#thanks-for-visiting-heart</h1>
-<p align="center"> <img src=https://camo.githubusercontent.com/b393506ed43ef1f5e065e6e30a262de73aa2bae28248d7da925397fe89627e66/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f424550622f636f756e742e737667 /></p>
-<!--   skyline 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
+                             
 <p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik" /></p>
 
 
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-<p align="center"> <img src=https://star-history.com/#salihabrik/salihabrik&Date /></a> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif
-<img align="center" alt="Coding" width="400" src=https://camo.githubusercontent.com/282db948a3c03082f48873edb0aab11cee46e0ae047a9c58e87d2c22aa18295f/68747470733a2f2f62616467652e6d65646961706c75732e6d612f62696e6172792f796768617269
-<p align="left"> <img src=https://s01.flagcounter.com/overview1.cgi?ap7&chart=7/></p>
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
-<p align="center"> <img src=https://camo.githubusercontent.com/1a9b80085e3c7ca1d2d8ed4820fecb52a8c7deb827169c662d5c948227ed9827/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40424550622e6769746875622e726561646d65/></a>
-<p align="center"> 
-
-<img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
-
-</p>
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</a> </p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salihabrik&limit=5&theme=radical&combine_all_yearly_contributions=true)
