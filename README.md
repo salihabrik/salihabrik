@@ -75,7 +75,7 @@ profile-3d-contrib/profile-south-season.svg
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
 <p><img align="center" src=profile-3d-contrib/profile-south-season.sv
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
+\<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik<p><img align="center" src="
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
