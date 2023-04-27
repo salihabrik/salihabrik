@@ -140,3 +140,5 @@ width="30%">
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=salihabrik&limit=5&theme=radical&combine_all_yearly_contributions=true)
