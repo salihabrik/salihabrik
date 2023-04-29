@@ -33,7 +33,7 @@
   
 <h1 align="center">A Software Engineer 👩‍💻 from Algeria</h1><p align="left"> <img src=https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
 - 📫 How to reach me **briksaliha@gmail.com**									    
-	<h3 align="left">Connect with me:</h3>
+	<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg
 
@@ -58,7 +58,7 @@ profile-3d-contrib/profile-south-season.svg
  <a href="https://github.com/salihabrik/github-readme-activity-graph"><img alt="salihabrik Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=salihabrik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 - 📫 How to reach me **briksaliha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
  <a href="https://api.whatsapp.com/send?phone=+213659975580" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 <a href="https://twitter.com/sali46427585?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sali46427585?" height="30" width="40" /></a>
