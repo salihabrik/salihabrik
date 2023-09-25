@@ -39,8 +39,6 @@ You can click the Preview link to take a look at your changes.
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-contributor-stats.vercel.app/api?username=salihabrik&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -70,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,mysql,ai,git,github,linux,vim,bash,vscode,docker,ruby"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,mysql,ai,git,github,linux,vim,bash,vscode,docker,ruby,SQL"/>
   </a>
   </p>
   <p align="center">
@@ -79,11 +77,12 @@ You can click the Preview link to take a look at your changes.
 
 <a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg/></a>
 		   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&&theme=dark&hide_border=true&stroke=f53b3bshow_icons=true&locale=en" alt="salihabrik" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iel-wafi&show_icons=true&locale=en&layout=compact" alt="salihabrik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihabrik&&theme=dark&hide_border=true&stroke=f53b3bshow_icons=true&locale=en&layout=compact" alt="salihabrik" /></p>
 
 <p><img height="180px"" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&&theme=dark&hide_border=true&stroke=f53b3b"" alt="salihabrik" /></p>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
+
+<a href="https://github.com/salihabrik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihabrik&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
