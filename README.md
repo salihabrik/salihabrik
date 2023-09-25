@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=salihabrik&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -63,7 +65,8 @@ You can click the Preview link to take a look at your changes.
 
 
 			 
-<h1 align="center">Languages and Tools:</h1>
+<h1 align="center">languages and tools:</h1>
+<p align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -74,31 +77,13 @@ You can click the Preview link to take a look at your changes.
     <!--  <img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> -->
   </p>
 
-
 <a href=https://github.com/salihabrik/salihabrik/blob/main/github-metrics.svg/></a>
-
-
-
-		      
 		   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iel-wafi&show_icons=true&locale=en&layout=compact" alt="salihabrik" /></p>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihabrik&show_icons=true&locale=en" alt="salihabrik" /></p>
 
 
-
-![](https://github-contributor-stats.vercel.app/api?username=salihabrik&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iel-wafi&show_icons=true&locale=en&layout=compact" alt="salihabrik" /></p>
 
-
-                     
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&" alt="salihabrik" /></p>
+<p><img height="180px"" src="https://github-readme-streak-stats.herokuapp.com/?user=salihabrik&&theme=dark&hide_border=true&stroke=f53b3b"" alt="salihabrik" /></p>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-
 
