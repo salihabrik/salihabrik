@@ -95,3 +95,4 @@ You can click the Preview link to take a look at your changes.
  [![Saliha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salihabrik&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/salihabrik/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
 ![wakatime](https://github.com/salihabrik/salihabrik/assets/125161506/bf84684c-aaf5-4aa2-bb15-1c23e9b1cf15)
+![wakatime](https://wakatime.com/badge/github/wakatime/vscode-wakatime)
