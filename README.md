@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+SalihaBrik!💻" /></h1>
   <br />
+	<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+	</div>
 	<h1 align="center">Hi 👋, welcome to my profile!</h1>
 <p align="center">
   <!-- Typing SVG by salihabrik - https://github.com/salihabrik/readme-typing-svg -->
