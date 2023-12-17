@@ -40,6 +40,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://komarev.com/ghpvc/?username=salihabrik&label=Profile%20views&color=0e75b6&style=flat" alt="salihabrik" /> </p>
  
  [![wakatime](https://wakatime.com/badge/user/a0646488-d6a9-45df-9964-d4c90f30ea99.svg)](https://wakatime.com/@a0646488-d6a9-45df-9964-d4c90f30ea99)
+   
+![salihabrik's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salihabrik)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihabrik&layout=pie)
 
 ## 🏆 GitHub Trophies
 
@@ -48,7 +52,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-  
 
  - 📫 How to reach me **briksaliha@gmail.com**									    
 	<h1 align="center">Connect with me:</h1>
