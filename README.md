@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
  [![wakatime](https://wakatime.com/badge/user/a0646488-d6a9-45df-9964-d4c90f30ea99.svg)](https://wakatime.com/@a0646488-d6a9-45df-9964-d4c90f30ea99)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=onedark)](https://github.com/salihabrik/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -79,6 +79,7 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
     <!--  <img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,REACT"> -->
   </p>
+<br>
 
 ## GITHUB CONTRIBUTOR STATS
 
@@ -95,6 +96,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/salihabrik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihabrik&langs_count=10&title_color=a855f7&text_color=ff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Saliha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salihabrik&theme=dracula)](https://github.com/salihabrik)
 
 [![Saliha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salihabrik&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/salihabrik/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" /> 
