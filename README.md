@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 	<p>Software Engineering Student@holbertonschool| @ALX_AFRICA.</p>
 	<br />
+ <br>
+
+![Palestine will be free](https://img.shields.io/badge/Palestine%20will%20be%20free-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
  <a href="https://www.linkedin.com/in/salihabrik">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
@@ -44,10 +47,13 @@ You can click the Preview link to take a look at your changes.
 ![salihabrik's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salihabrik)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihabrik&layout=pie)
+<br>
+
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salihabrik&theme=onedark)](https://github.com/salihabrik/github-profile-trophy)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -104,3 +110,9 @@ You can click the Preview link to take a look at your changes.
                      
 
 [![wakatime](https://wakatime.com/badge/user/a0646488-d6a9-45df-9964-d4c90f30ea99.svg)](https://wakatime.com/@a0646488-d6a9-45df-9964-d4c90f30ea99)
+
+## GitHub Metrics
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihabrik&theme=algolia" align="center" />
+</p>
