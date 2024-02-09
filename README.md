@@ -48,6 +48,15 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihabrik&layout=pie)
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/salihabrik">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salihabrik&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salihabrik&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salihabrik&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salihabrik&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihabrik&theme=jolly" height="180em" />
+</div>
 
 
 ## 🏆 GitHub Trophies
@@ -116,3 +125,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihabrik&theme=algolia" align="center" />
 </p>
+
+
