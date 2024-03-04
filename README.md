@@ -1,10 +1,4 @@
-      if whatsapp in your_phone():
--              contact_info = message_me(+213659975580)
--          else :
--              contact_info = send_email(briksaliha@gmail.com)
--          return contact_info    
--          print( 'You can reach me any time' )         
-
+      whoami?
 <!---
 salihabrik/salihabrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
